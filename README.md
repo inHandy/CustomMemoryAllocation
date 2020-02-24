@@ -15,9 +15,3 @@ The following is an example of a simplified diagram demonstrating the structure 
 
 In addition, it is also possible to change the value of the "MEMBLOCKSIZE " macro in order
 to customize the memory size of each MemBlock.
-
-## Future Objectives
-
-- Add Unit Tests.
-- Rewrite functions with new acquired experience in C++ (from latest internship).
-- Update Diagram1 for changes to variable names.
